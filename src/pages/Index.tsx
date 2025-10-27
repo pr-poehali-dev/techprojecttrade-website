@@ -184,11 +184,7 @@ const Index = () => {
                   лакокрасочных материалов и строительных смесей. Мы постоянно расширяем ассортимент
                   и следим за новинками отрасли.
                 </p>
-                <div className="grid grid-cols-3 gap-6 pt-6">
-                  <div className="text-center">
-                    <div className="text-3xl font-bold text-primary mb-2">15+</div>
-                    <div className="text-sm text-muted-foreground">лет на рынке</div>
-                  </div>
+                <div className="grid grid-cols-2 gap-6 pt-6">
                   <div className="text-center">
                     <div className="text-3xl font-bold text-primary mb-2">5000+</div>
                     <div className="text-sm text-muted-foreground">товаров</div>
