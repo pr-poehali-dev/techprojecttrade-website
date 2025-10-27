@@ -269,8 +269,11 @@ const Index = () => {
                       </div>
                       <div>
                         <div className="font-medium mb-1">Телефон</div>
-                        <a href="tel:+74951234567" className="text-primary hover:underline">
-                          +7 (495) 123-45-67
+                        <a href="tel:83952648055" className="text-primary hover:underline block">
+                          8 (3952) 648-055
+                        </a>
+                        <a href="tel:89248312731" className="text-primary hover:underline block">
+                          8 (924) 831-27-31
                         </a>
                       </div>
                     </div>
@@ -282,10 +285,10 @@ const Index = () => {
                       <div>
                         <div className="font-medium mb-1">Email</div>
                         <a
-                          href="mailto:info@techprojecttrade.ru"
+                          href="mailto:CVV@tp-trade1.ru"
                           className="text-primary hover:underline"
                         >
-                          info@techprojecttrade.ru
+                          CVV@tp-trade1.ru
                         </a>
                       </div>
                     </div>
@@ -394,8 +397,9 @@ const Index = () => {
             <div>
               <h4 className="font-semibold mb-4">Контакты</h4>
               <ul className="space-y-2 text-sm text-white/80">
-                <li>+7 (495) 123-45-67</li>
-                <li>info@techprojecttrade.ru</li>
+                <li>8 (3952) 648-055</li>
+                <li>8 (924) 831-27-31</li>
+                <li>CVV@tp-trade1.ru</li>
                 <li>г. Москва, ул. Промышленная, д. 15</li>
               </ul>
             </div>
