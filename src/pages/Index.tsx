@@ -60,8 +60,12 @@ const Index = () => {
       <header className="fixed top-0 w-full bg-white/95 backdrop-blur-sm shadow-sm z-50">
         <div className="container mx-auto px-4 py-4">
           <div className="flex items-center justify-between">
-            <div className="flex items-center gap-2">
-              <Icon name="Building2" size={32} className="text-primary" />
+            <div className="flex items-center gap-3">
+              <img 
+                src="https://cdn.poehali.dev/files/95088f3d-13fe-4d54-984f-084d1cf3bbea.png" 
+                alt="ТехПроектТрейд"
+                className="h-12 w-12 object-contain"
+              />
               <div>
                 <h1 className="text-xl font-bold text-secondary">ТехПроектТрейд</h1>
                 <p className="text-xs text-muted-foreground">Поставщик строительных материалов</p>
@@ -351,7 +355,11 @@ const Index = () => {
           <div className="grid md:grid-cols-4 gap-8 mb-8">
             <div>
               <div className="flex items-center gap-2 mb-4">
-                <Icon name="Building2" size={24} />
+                <img 
+                  src="https://cdn.poehali.dev/files/95088f3d-13fe-4d54-984f-084d1cf3bbea.png" 
+                  alt="ТехПроектТрейд"
+                  className="h-8 w-8 object-contain"
+                />
                 <h3 className="font-bold text-lg">ТехПроектТрейд</h3>
               </div>
               <p className="text-sm text-white/80">
