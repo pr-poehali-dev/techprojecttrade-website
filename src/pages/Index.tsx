@@ -30,21 +30,6 @@ const Index = () => {
       description: 'Защитные составы для подготовки поверхностей',
       icon: 'Shield',
     },
-    {
-      title: 'Клеевые составы',
-      description: 'Клей для плитки, обоев и других материалов',
-      icon: 'Droplets',
-    },
-    {
-      title: 'Инструменты',
-      description: 'Кисти, валики, шпатели и другой инструмент',
-      icon: 'Wrench',
-    },
-    {
-      title: 'Гидроизоляция',
-      description: 'Материалы для защиты от влаги',
-      icon: 'Umbrella',
-    },
   ];
 
   const advantages = [
